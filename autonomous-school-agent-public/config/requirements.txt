@@ -1,0 +1,11 @@
+playwright
+python-dotenv
+vosk
+TTS
+pyaudio
+numpy
+python-docx
+python-pptx
+pypdf
+rich
+pdfplumber
